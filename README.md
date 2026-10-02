@@ -6,14 +6,14 @@ I build web products end to end: API, database, AI integration, payments and dep
 Most of my work is in **TypeScript / Node.js**, and I also write **Java (Spring Boot)**.
 I use AI tools (Claude Code, Cursor, Codex) every day, and I make sure I understand every line they help me write.
 
-- 🔭 Building **[Wallpaper AI](https://wallpaper-ai-art.up.railway.app)**, an AI photo-restyling SaaS
+- 🔭 Building **[Wallpaper AI](https://wallpaperai.app)**, an AI photo-restyling SaaS
 - 🎓 MSc student in Computer Science · BSc, Technical University of Košice (2026)
 - 💬 Ask me about REST APIs, PostgreSQL & Prisma, auth, payment webhooks, LLM workflows
 - 🌍 Ukrainian (native) · English (B2) · Slovak (B2)
 
 ## Featured projects
 
-### 🎨 [Wallpaper AI](https://github.com/rostyslav109/wallpaper-ai) · [live demo](https://wallpaper-ai-art.up.railway.app)
+### 🎨 [Wallpaper AI](https://github.com/rostyslav109/wallpaper-ai) · [live demo](https://wallpaperai.app)
 Upload a photo, pick a style (oil painting, anime, pixel art…) and get an AI-restyled wallpaper.
 - Node.js · Express 5 · TypeScript API, PostgreSQL + Prisma, React frontend
 - Premium AI workflow: vision-LLM photo analysis → scene-aware prompt → generation → automatic quality review with a retry
